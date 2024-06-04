@@ -10,6 +10,4 @@
 VivekPratap01/VivekPratap01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-upload image ![IMG_20240427_210812](https://github.com/VivekPratap01/VivekPratap01/assets/171542189/76c102a8-f876-4b47-87aa-3f238f454864)
-
 make ai image 
